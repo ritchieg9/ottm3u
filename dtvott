@@ -216,12 +216,22 @@ https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uBhxMKpaidnvgnWKhnU-7w","kid":"Qhpb2wHuXmWdVtf5SI_-ww"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1179/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bxrlh91.png", Oromar Ecuador Alt.
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
 #EXTINF:-1 tvg-id="EcuadorTV.ec", tvg-logo="https://i.imgur.com/UufaAHt.png", Ecuavisa Ecuador
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oINPuoWzaIKvqm63QrEhIg","kid":"pWcuQtw-UyCfMh8JPpjSEA"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="EcuadorTV.ec", tvg-logo="https://i.imgur.com/UufaAHt.png", Ecuavisa Ecuador Alt.
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-NLy20YXRRawx4xKNqDHqQ","k":"8EXwrsnrY5LfZ8n2QKehvg"}]}
+https://b42768.2.cdn.telefonica.com/live/disk1/EcuavisaNacional/DASH/EcuavisaNacional.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UiNFnFD.png", RTS Ecuador
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -923,6 +933,13 @@ https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C2uGIpiRBPabLbkWMO0Orw","kid":"ZXXiy4SbWBSAqyYLcMz6tg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdOsmvF.png", ECDF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=150c41836a0d47df8db180f2d134d1d8:df0aa61f655d043d8cc629e084352948
+https://b42303-p13-h48-afiih478.2.cdn.telefonica.com/_42303/_-_psi_-_/live/disk1/CanaldeFutbol/DASH/CanaldeFutbol.mpd?tcdn-bitrate-filter=LiveL-M|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="TyCSports.ar", tvg-logo="https://i.imgur.com/KKrgzI3.png", TyC Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -962,8 +979,8 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qJjkg_cATiSWBhL9wSqOJw","k":"18EBWcTcF4HQkXyiW06Uzg"}]}
-https://b42567.2.cdn.telefonica.com/live/disk1/GolPeruHD/DASH/GolPeruHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=25b6fea57d2e4c62b538851132df22f1:c176e51f2904eb1ef8a194797a1add74
+https://b42567-p13-hbe-afiih478.2.cdn.telefonica.com/_42567/_-_psi_-_/live/disk1/GolPeruHD/DASH/GolPeruHD.mpd?tcdn-bitrate-filter=LiveL-M|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BkvS5NW.png", TUDN Mexico
 #KODIPROP:inputstreamaddon=inputstream.adaptive
