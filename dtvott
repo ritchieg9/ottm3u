@@ -91,6 +91,13 @@ https://dtvott-abc.akamaized.net/dash_live_1236/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KdQjVRo5SRn+URfa127Esg","kid":"4d5YD8QzWd6ayGoBkXiGpg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1221/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="ChileVision.cl", tvg-logo="https://i.imgur.com/f31Xmha.png",Chilevision
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9870e2924a93afba14c1bcd2f02c6b2:f98bda8234d3f2397cc1e5ca35c2c34c
+https://dtvott-akaws.akamaized.net/live_1040/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="TVN.cl", tvg-logo="https://i.imgur.com/LqA2gXu.png", Canal 13 Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
