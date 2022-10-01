@@ -972,8 +972,8 @@ https://1246-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aW3nqCJX3bUe0_3sBLbsiw","kid":"NNYrIu_GP2WerFuoIomILQ"}],"type":"temporary"}
-https://1251-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=34d62b22efc63f659eac5ba82289882d:696de7a82257ddb51ed3fdec04b6ec8b
+https://dtvott-akaws.akamaized.net/live_1251/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmN7vlr.png", GOL TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -987,7 +987,7 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=25b6fea57d2e4c62b538851132df22f1:c176e51f2904eb1ef8a194797a1add74
-https://b42567-p13-hbe-afiih478.2.cdn.telefonica.com/_42567/_-_psi_-_/live/disk1/GolPeruHD/DASH/GolPeruHD.mpd?tcdn-bitrate-filter=LiveL-M|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://b42566-p10-h7e-afzpzwog.2.cdn.telefonica.com/_42566/_-_psi_-_/live/disk1/GolPeruHD/DASH/GolPeruHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BkvS5NW.png", TUDN Mexico
 #KODIPROP:inputstreamaddon=inputstream.adaptive
