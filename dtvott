@@ -1108,7 +1108,10 @@ https://1165-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cWRJdWMWuRxUgDqqIqL78A","kid":"YQCN/IZ1RM2HLembHyuCzw"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, MTV 90s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s
+http://190.83.119.67:8000/play/a0po/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s
 http://myott.top/stream/P4H2M76YRH/88.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s
