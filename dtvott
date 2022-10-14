@@ -440,12 +440,19 @@ https://dtvott-abc.akamaized.net/dash_live_1263/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ITz4XLX5/laXVwBKd+BZSA","kid":"YAPpLdDZ9UgykBXJ4V3VeA"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="StudioUniversalChile.cl", tvg-logo="https://i.imgur.com/yBYHJuJ.png", Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversalChile.cl", tvg-logo="https://i.imgur.com/yBYHJuJ.png", Studio Universal (Flow)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"u6XSatUFH7Pyz3492KSn2A","kid":"2bVB480GTVaYQ9pCeI1CYw"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="StudioUniversalChile.cl", tvg-logo="https://i.imgur.com/yBYHJuJ.png", Studio Universal (DTV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8569dadb1563206a2c2bb0bdb6655b8:e17fec1b1897b5b1c25883749a89cf76
+https://1210-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="CinemaxPanregional.us", tvg-logo="https://i.imgur.com/2HOweFW.png", Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -460,6 +467,13 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cine
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YQyVFzfLniIfB8mGtsZvfQ","kid":"aBiLO7eUU8q3sm7pKaJe1A"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGMDhqR.png", Clover Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"tcflTw88RuGFTzbD-fIUkw","k":"Np4vhObe9F1nPspy9-GCNg"}],"type":"temporary"}
+https://b45250.7.cdn.telefonica.com/_45250/sdash/LIVE$CloverHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LiveL-M|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="DHE.us", tvg-logo="https://i.imgur.com/dqMwe4X.png",Canal DHE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1073,19 +1087,19 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8NIlT4W3Nxf0ws2BvacYiQ","kid":"NrLGt3NqWQG/QIkWpFSr+Q"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WVT1Yct.png", MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVT1Yct.png", MTV (Flow)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Zr+/pESeuLwbz3V31b/6rQ","kid":"DJ6z6tOKEirEYK2WqOv9Lg"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WVT1Yct.png", MTV (Mov)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVT1Yct.png", MTV (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rUqjjLOcED2Zi+woUVHmCQ","kid":"pCH8O4jRTwSBtmpOumsgnw"}],"type":"temporary"}
-https://b42570.2.cdn.telefonica.com/live/disk1/MTV/DASH/MTV.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=74d426155d66366e97dc3a95d406dc03:049cb061d1e683a01504192e5f8e90cb
+https://1165-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1093,6 +1107,9 @@ https://b42570.2.cdn.telefonica.com/live/disk1/MTV/DASH/MTV.mpd|User-Agent="Mozi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cWRJdWMWuRxUgDqqIqL78A","kid":"YQCN/IZ1RM2HLembHyuCzw"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, MTV 90s
+http://myott.top/stream/P4H2M76YRH/88.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1157,12 +1174,8 @@ https://b43716.3.cdn.telefonica.com/_43716/sdash/LIVE$Quiero/index.mpd/Manifest.
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1CJ/JDiam6dykyFLk+sNfQ","kid":"2uzvX+MvTOCDxqDGknVdag"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Canal Test
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"tGQYQrWCQ5Cn_o1Ox4EDHQ","k":"zRVoFe8F3Mn8w2JufVLbeQ"}]}
-https://crytonep.herokuapp.com/https://dazn3-dash-movistarplus.emisiondof6.com/dash/dazn3.isml/manifest.mpd
+#EXTINF:-1, Stingray Qello
+https://siloh-latam-aka.plutotv.net/lilo/production/Qello/LATAM/master.m3u8
 
 
 
