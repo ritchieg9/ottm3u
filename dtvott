@@ -91,7 +91,10 @@ https://dtvott-abc.akamaized.net/dash_live_1236/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KdQjVRo5SRn+URfa127Esg","kid":"4d5YD8QzWd6ayGoBkXiGpg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1221/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="ChileVision.cl", tvg-logo="https://i.imgur.com/f31Xmha.png",Chilevision
+#EXTINF:-1 tvg-id="Mega.cl", tvg-logo="https://i.imgur.com/qLzjO1U.png", Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChileVision.cl", tvg-logo="https://i.imgur.com/f31Xmha.png", Chilevision
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -199,8 +202,8 @@ https://b41832.2.cdn.telefonica.com/live/disk1/RPP/DASH/RPP.mpd|User-Agent="Mozi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nDUNBbWlQ02qNpdwH384yA","k":"elXCgLb84Ke2CcxcjX7mRg"}]}
-https://b41835.2.cdn.telefonica.com/live/disk1/Panamericana/DASH/Panamericana.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=330624690de13946beb88e41a4ccd15f:9320ddbd6178006cb858d7c2c39639fb
+https://1180-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rZsZUSD.png", Canal N Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -726,15 +729,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"U5ge6mK2ptoaOklY3FdDbA","kid":"m24hGfo6VI2gvIp7IG9RdA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YQWgAVC.png", Love Nature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jrPSankHTIKIGfdb99SEww","k":"Qtws-VRE7L3UJn0JgWSi7Q"}],"type":"temporary"}
-https://b45479.2.cdn.telefonica.com/live/disk1/LoveNature/DASH/LoveNature.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-
-
 #EXTINF:-1 tvg-id="TNTSportsArgentina.ar", tvg-logo="https://i.imgur.com/FK5L1nW.png", TNT Sports Arg.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1151,11 +1145,17 @@ http://190.83.119.67:8000/play/a0po/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (UK)
 http://85.11.144.9:4222/VH1Classic?token=test
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (EU)
+http://livetv.mylifeisgood.ml/channels/mtv80s
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP1)
 http://myott.top/stream/P4H2M76YRH/88.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP2)
 http://85.11.144.9:4222/MTVRocks?token=test
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP3)
+http://livetv.mylifeisgood.ml/channels/mtv90s
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s
 #KODIPROP:inputstreamaddon=inputstream.adaptive
