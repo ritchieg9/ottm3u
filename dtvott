@@ -1128,8 +1128,8 @@ https://dtvott-cbc.akamaized.net/dash_live_1124/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ugwu-QmtXXintaDm4gnnJg","k":"vOSbd2cApcsFgg8LLWvNGQ"},{"kty":"oct","kid":"rB6goM89WvuhtXIp7bl8jw","k":"_TPjb1_ckothvpv6etEfUw"},{"kty":"oct","kid":"sgApdw9JVQeRoYcVrnX2uw","k":"wnYtZvpM1ElSv3SofyX-YA"}]}
-https://fox-edge2-mx.tbxdrm.com/foxsportspremium/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"X+YP1336Ydv0HRoKyVliHQ","kid":"kaIff/wDs+Rv40jdB1V1jg"}],"type":"temporary"}
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rLtlaBZ.png", CDO Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
