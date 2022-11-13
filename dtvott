@@ -1340,20 +1340,26 @@ https://1165-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cWRJdWMWuRxUgDqqIqL78A","kid":"YQCN/IZ1RM2HLembHyuCzw"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (Ru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP2)
 http://50.7.231.220:8081/204/index.m3u8?wmsAuthSign=1668338574p671i59i061i181S49a74597cf8f6af0bf59c0c3c4a66b60
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (UK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP3)
 http://85.11.144.9:4222/MTVHits?token=test
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP4)
+http://myott.top/stream/P4H2M76YRH/302.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP1)
 http://190.83.119.67:8000/play/a0po/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (UK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP2)
 http://85.11.144.9:4222/VH1Classic?token=test
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (EU)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP3)
 http://livetv.mylifeisgood.ml/channels/mtv80s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP4)
+http://myott.top/stream/P4H2M76YRH/87.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9aeuyUn.png", MTV 90s (OP1)
 http://myott.top/stream/P4H2M76YRH/88.m3u8
@@ -1377,12 +1383,14 @@ https://edge-live12-sl.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP2)
 http://38.143.137.221:8000/LA49/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP3)
+http://myott.top/stream/P4H2M76YRH/165.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"B-6Ub_GwQk6N4BKcPZej5g","k":"n8I06JiTYR45QNfEG6TOKQ"}]}
-https://b42558-p7-he0-te1bbef.4.cdn.telefonica.com/_42558/sdash/LIVE$MTVLiveHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LiveL-M
+http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live HD (OP2)
+http://myott.top/stream/P4H2M76YRH/215.m3u8
 
 #EXTINF:-1, VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
@@ -1436,6 +1444,12 @@ https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I854.73070.schedulesdirect.org", tvg-logo="https://i.imgur.com/dk3yW5a.png", Telehit Musica Plus
 https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
+
+#EXTINF:-1, Bandamax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
 
 #EXTINF:-1, Flow Music 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
