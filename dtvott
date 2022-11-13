@@ -1389,13 +1389,22 @@ http://38.143.137.221:8000/LA49/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP3)
 http://myott.top/stream/P4H2M76YRH/165.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP3)
+http://iptv.prosto.tv:7000/ch129/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live HD
 http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live HD (OP2)
 http://myott.top/stream/P4H2M76YRH/215.m3u8
 
-#EXTINF:-1, VH1 Italia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6N5HSrH.png", Club MTV 
+http://iptv.prosto.tv:7000/ch125/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6N5HSrH.png", Club MTV
+http://85.11.144.9:4222/MTVDance?token=test
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uf6Z4Sn.png", VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PR5Jv1R.png", Nick Music
@@ -1478,5 +1487,12 @@ https://edge-live17-sl.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc/Fl
 #EXTINF:-1, MTV Classic
 https://us.justv.org:8080/hls/mtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA2OjIwOjQ1IEFNJmhhc2hfdmFsdWU9N0M0Mmp5MkhCaDh2QjZJd3paUFF4Zz09JnZhbGlkbWludXRlcz0xNDQwMDAwMDAwMA==
 
+#EXTINF:-1, MTV Xmas
+http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753861
 
+#EXTINF:-1, MTV Music
+http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753864
+
+#EXTINF:-1, MTV Hits UK
+http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753863
 
