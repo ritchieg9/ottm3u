@@ -1496,3 +1496,13 @@ http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753864
 #EXTINF:-1, MTV Hits UK
 http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753863
 
+#EXTINF:-1, Teste
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c8912d93cb5b56549b7ad40e0c2d34cd":"f379e778b587b52b48dc40435f4b7174","2a16766791d15f21b47102e19f7dbf9c":"a3220bee698592192e69767c14e6bbed","59a0e6a21b645c64b3d0ceb86e5aa315":"7e03a40b82c30a04772ab1e12b03a8bf"}
+https://tvup-live.secure.footprint.net/somos6/somos6.mpd
+
+
+
+
