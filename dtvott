@@ -1349,6 +1349,9 @@ http://85.11.144.9:4222/MTVHits?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP4)
 http://myott.top/stream/P4H2M76YRH/302.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP UK)
+http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753862
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP1)
 http://190.83.119.67:8000/play/a0po/index.m3u8
 
