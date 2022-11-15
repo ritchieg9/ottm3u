@@ -43,6 +43,13 @@ https://tvup-live.secure.footprint.net/la1-neutra/la1-neutra.mpd|User-Agent="Moz
 #KODIPROP:inputstream.adaptive.license_key=dfd472261dcf350594173e8acf5f97ad:313d66dcc3202f8cb471c51b864d3917
 https://1187-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, Canal 12 Uruguay
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c55ed8f82e5924b22d00ce154ae849:fdea8ee702bd5262cb6a2901dc37e7b0
+https://dtvott-abc.akamaized.net/dash_live_1215/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="DeporTV.ar", tvg-logo="https://i.imgur.com/F2JEj4v.png", DeporTV Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
