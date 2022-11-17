@@ -1487,6 +1487,9 @@ https://edge-live17-sl.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc/Fl
 #EXTINF:-1, MTV Classic
 https://us.justv.org:8080/hls/mtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA2OjIwOjQ1IEFNJmhhc2hfdmFsdWU9N0M0Mmp5MkhCaDh2QjZJd3paUFF4Zz09JnZhbGlkbWludXRlcz0xNDQwMDAwMDAwMA==
 
+#EXTINF:-1, Zona Latina
+http://170.79.235.29:8000/play/133
+
 #EXTINF:-1, Teste
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
