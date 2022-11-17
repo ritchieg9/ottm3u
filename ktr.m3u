@@ -191,3 +191,6 @@ https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jj9tsS1vmqcvLMmw7y4msg","kid":"p+Ccb0evV+mZt4nrVNMlXQ"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Test 1
+https://telecorporacion.cdn.vustreams.com/live/71c9503a-be8f-4ce4-ac17-345a96cff63a/live.isml/index.m3u8
