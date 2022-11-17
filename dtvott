@@ -1463,6 +1463,18 @@ https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
 
+#EXTINF:-1, Trace Urban
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3294
+
+#EXTINF:-1, Trace Latina
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3297
+
+#EXTINF:-1, Trace Brazuca
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3298
+
+#EXTINF:-1, Zona Latina
+http://170.79.235.29:8000/play/133
+
 #EXTINF:-1, Flow Music 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1487,14 +1499,17 @@ https://edge-live17-sl.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc/Fl
 #EXTINF:-1, MTV Classic
 https://us.justv.org:8080/hls/mtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA2OjIwOjQ1IEFNJmhhc2hfdmFsdWU9N0M0Mmp5MkhCaDh2QjZJd3paUFF4Zz09JnZhbGlkbWludXRlcz0xNDQwMDAwMDAwMA==
 
-#EXTINF:-1, Zona Latina
-http://170.79.235.29:8000/play/133
-
 #EXTINF:-1, Teste
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c8912d93cb5b56549b7ad40e0c2d34cd":"f379e778b587b52b48dc40435f4b7174","2a16766791d15f21b47102e19f7dbf9c":"a3220bee698592192e69767c14e6bbed","59a0e6a21b645c64b3d0ceb86e5aa315":"7e03a40b82c30a04772ab1e12b03a8bf"}
 https://tvup-live.secure.footprint.net/somos6/somos6.mpd
+
+#EXTINF:-1, Univision
+http://89.187.175.143/3108/mpegts
+
+#EXTINF:-1, NBC Sports Chicago
+http://89.187.175.143/3116/mpegts
 
 
