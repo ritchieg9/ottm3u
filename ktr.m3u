@@ -1,3 +1,12 @@
+#EXTINF:-1, Concert Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c46b04e418059cf4286ff52d267ba630:4cae4ff9dc82023b597d6e1c8d52efa9
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(EPL2)/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
